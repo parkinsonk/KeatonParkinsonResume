@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Keaton Parkinson's Resume
 ---
 
 # Keaton Parkinson
